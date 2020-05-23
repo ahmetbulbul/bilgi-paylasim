@@ -1,3 +1,3 @@
 # bilgi-paylasim
-Bilgi Paylaşım Arayüzü Fonksiyonsuz Arayüz
+Bilgi Paylaşımı (Fonksiyonsuz Arayüz)
 ,
